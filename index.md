@@ -22,6 +22,8 @@ Open-sourcerer. Aspiring Gopher.
 
  - [Linkedin](https://www.linkedin.com/in/rborofeo/)
 
+ - [DEV](https://dev.to/rbo13)
+
 
 <br/>
 
