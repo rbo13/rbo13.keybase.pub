@@ -16,6 +16,8 @@ Open-sourcerer. Aspiring Gopher.
 <br/>
 
 ##### Social:
+ - [Resume](https://rbo13.github.io/)
+
  - [Github](https://github.com/rbo13)
 
  - [Stackoverflow](https://stackoverflow.com/users/5342427/whaangbuu)
