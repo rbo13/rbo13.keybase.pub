@@ -12,6 +12,14 @@ Open-sourcerer. Aspiring Gopher.
 
 - [carbon](https://github.com/BottleneckStudio/carbon)
 
+<br/>
+
+#### Open-source Contribution:
+* [goth](https://github.com/markbates/goth):
+		- [Added LINE Provider](https://github.com/markbates/goth/releases/tag/v1.51.0)
+
+* [bishack.dev](https://bishack.dev/):
+		- [Update User Profile](https://github.com/rbo13/bishack.dev)
 
 <br/>
 
